@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @qtf
-- I’m currently learning c#
-- 📫 How to reach me: Discord; qtf#0001
+- 👋 Hi, I’m @Talon
+- I’m currently learning c#, Go, c++
+- 📫 How to reach me: Discord; smoke#8474
 
 <!---
 qqwqe/qqwqe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
